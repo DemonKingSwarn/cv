@@ -1,0 +1,8 @@
+highlighter: rouge
+plugins:
+  - jekyll-feed
+  - jekyll-sitemap
+  - jekyll-seo-tag
+timezone: Asia/Kolkata
+title: Swarnaditya Singh's CV
+author: Swarnaditya Singh (DemonKingSwarn)
