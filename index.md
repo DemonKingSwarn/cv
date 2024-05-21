@@ -11,6 +11,7 @@ Game Developer, Graphic Designer
 <a href="mailto:swarnaditya.isometric@gmail.com">swarnaditya [DOT] isometric [AT] gmail [DOT] com</a>
 <br>
 <a href="https://demonkingswarn.is-a.dev">My website</a>
+<br>
 <a href="#">+91 7004582536</a>
 </div>
 
