@@ -9,6 +9,7 @@ Game Developer, Graphic Designer
 
 <div id="webaddress">
 <a href="mailto:swarnaditya.isometric@gmail.com">swarnaditya [DOT] isometric [AT] gmail [DOT] com</a>
+<br>
 <a href="https://demonkingswarn.is-a.dev">My website</a>
 </div>
 
