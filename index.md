@@ -13,6 +13,22 @@ Game Developer, Graphic Designer
 <a href="https://demonkingswarn.is-a.dev">My website</a>
 </div>
 
+## Professional Profile
+
+Innovative game developer with 5 years of experience in the gaming field. Seeking game programmers position to utilize knowledge and skills to advance portfolio and potential for increased responsibility.
+
+## Core Qualifications
+
+- Expertise in all areas of game programming, including development, coding and troubleshooting.
+- Proficient in Adobe, C# and JavaScript
+- Comfortable working independently and in team settings.
+
+## Industry Skills
+
+- Object-oriented programming
+- Code and quality standards
+- Programming languages: C#, Java, GDScript
+
 ## Education
 
 `2022-2025`
