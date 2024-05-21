@@ -27,7 +27,8 @@ Innovative game developer with 5 years of experience in the gaming field. Seekin
 
 - Object-oriented programming
 - Code and quality standards
-- Programming languages: C#, Java, GDScript
+- Programming languages: C#, Java, GDScript, C++
+- Game engines: Unity, Godot
 
 ## Education
 
