@@ -20,7 +20,7 @@ Innovative game developer with 5 years of experience in the gaming field. Seekin
 ## Core Qualifications
 
 - Expertise in all areas of game programming, including development, coding and troubleshooting.
-- Proficient in Adobe, C# and JavaScript
+- Proficient in GIMP, C# and JavaScript
 - Comfortable working independently and in team settings.
 
 ## Industry Skills
